@@ -1,0 +1,2 @@
+# Archivos que siempre deben tener finales de línea LF
+*.html text eol=lf
